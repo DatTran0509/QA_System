@@ -83,6 +83,3 @@ cd <repository-folder>
 docker-compose up --build
 
 
-### Built With
-```
-
